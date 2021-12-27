@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nilay Shrimanwar <@shrimanwar92>
 - 👀 I’m interested in Javascript, Typescript, AWS, React and much more.
-- 🌱 I’m currently learning AWS Cloud Automation and will appear for developer certification in near future.
+- 🌱 Proficient and experienced in AWS cloud infrastructure automation using AWS-CDK.
 
 <!---
 - 💞️ I’m looking to collaborate on 
