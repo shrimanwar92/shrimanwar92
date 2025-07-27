@@ -1,11 +1,1 @@
-- 👋 Hi, I’m Nilay Shrimanwar <@shrimanwar92>
-- 👀 I’m interested in Javascript, Typescript, AWS, React and much more.
-- 🌱 Proficient and experienced in AWS cloud infrastructure automation using AWS-CDK.
-
-<!---
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
-
-shrimanwar92/shrimanwar92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+AWS and MLOps architect with 11+ years in designing and managing scalable, secure, and cost-optimized cloud infrastructure. Proficient in building end-to-end ML pipelines with tools like Python, Terraform, TensorFlow, Keras, ZenML, Pandas, Sagemaker pipelines, Docker & MLFlow. Skilled in data cleaning, validation, and transformation to ensure high data quality and model performance. Strong ownership abilities, with a track record of completing complex implementations on schedule.
